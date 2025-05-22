@@ -1,5 +1,7 @@
 # C208 - Arquiteturas de Computadores
 
+![Assembly](https://img.shields.io/badge/Assembly-654FF0?style=flat&logo=assemblyscript&logoColor=white)
+
 Este repositório contém os exercícios, relatórios e códigos desenvolvidos ao longo da disciplina **C208 - Arquiteturas de Computadores**.
 
 ## Tecnologias Utilizadas
